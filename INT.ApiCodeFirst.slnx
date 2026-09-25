@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="INT.Api/INT.Api.csproj" />
+  <Project Path="INT.Applaction/INT.Applaction.csproj" />
+  <Project Path="INT.Domain/INT.Domain.csproj" />
+  <Project Path="INT.Infrastucher/INT.Infrastucher.csproj" />
+</Solution>
